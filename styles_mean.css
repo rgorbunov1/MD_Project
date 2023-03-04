@@ -1,0 +1,20 @@
+body{
+    /* background-color: rgb(222, 250, 241); */
+    background-image: url(https://wallbox.ru/wallpapers/main/201313/910b2f79dd7d2a4.jpg);
+    text-align: center;
+    /* color: white; */
+   
+}
+
+.ar {
+    margin-left: 25%;
+    margin-right: 25%;
+    /* border: 30px solid rgb(248, 159, 171); */
+    border-left: 30%;
+    border-right: 30%;
+    
+ }
+
+ .mn {
+    text-align: left;
+ }
